@@ -5,7 +5,7 @@ compile with gcc.
 compile as "bmp" file  
   
 Usage:  
-&ensp;&ensp; bmp <options> <files>  
+&ensp;&ensp; bmp &lt;options&gt; &lt;files&gt;  
   
 Options:  
 &ensp;&ensp;-z: don't skip 00 at every end of the rows (if haven't)  
